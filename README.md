@@ -63,10 +63,6 @@
   &nbsp;
   <a href="https://shadcn.dev/" target="_blank"><img style="margin: 10px" src="https://shadcn.dev/logo.png" alt="Shadcn" height="36" /></a>
   &nbsp;
-  <a href="https://clerk.com/" target="_blank"><img style="margin: 10px" src="https://clerk.com/logo.svg" alt="Clerk" height="36" /></a>
-  &nbsp;
-  <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/favicon.ico" alt="Vercel" height="36" /></a>
-  &nbsp;
   <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://www.prisma.io/images/favicon-32x32.png" alt="Prisma" height="36" /></a>
 </div>
 
