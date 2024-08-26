@@ -61,8 +61,6 @@
   &nbsp;
   <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="36" /></a>
   &nbsp;
-  <a href="https://shadcn.dev/" target="_blank"><img style="margin: 10px" src="https://shadcn.dev/logo.png" alt="Shadcn" height="36" /></a>
-  &nbsp;
   <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://www.prisma.io/images/favicon-32x32.png" alt="Prisma" height="36" /></a>
 </div>
 
